@@ -1,0 +1,15 @@
+{
+  "name": "debug",
+  "version": "1.0.0",
+  "description": "debug for webpack",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kash",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lodash": "^4.17.15"
+  }
+}
